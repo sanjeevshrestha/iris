@@ -3,10 +3,9 @@ iris
 ====
 
 
-Add a short description here!
-
+iris - personal assistang
 
 Description
 ===========
 
-A longer description of your project goes here...
+iris is a personal assistant that will help me do mundane tasks
