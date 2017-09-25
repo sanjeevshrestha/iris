@@ -3,7 +3,7 @@ iris
 ====
 
 
-iris - personal assistang
+iris - personal assistant
 
 Description
 ===========
